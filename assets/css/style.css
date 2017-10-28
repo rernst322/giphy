@@ -1,0 +1,39 @@
+button {
+	border-radius: 5px;
+	border-style: none;
+	margin: 7px;
+	background-color: rgb(104, 134, 203);
+	color: white;
+	font-size: 18px;
+}
+
+header{
+	text-align: center;
+}
+
+button:hover {
+	background-color: rgb(62, 97, 201);
+
+}
+
+#animalButtons{
+	width: 60%;
+	float: left;
+}
+
+#giphy-form{
+	width: 35%;
+	float: right;
+	margin: 10px;
+}
+
+#gifImages {
+	width: 100%;
+	float: left;
+}
+
+#gifImages img{
+	float: left;
+	clear: right;
+	margin: 5px;
+}
